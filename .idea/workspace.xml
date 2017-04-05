@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49aa2dd1-c309-437b-801f-b9de259fca39" name="Default" comment="Added Pikaday">
+    <list default="true" id="49aa2dd1-c309-437b-801f-b9de259fca39" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ndigitectimer/public/js/timer.js" afterPath="$PROJECT_DIR$/ndigitectimer/public/js/timer.js" />
     </list>
@@ -32,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/ndigitectimer/public/js/timer.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="218">
-              <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+              <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -326,7 +326,7 @@
       <updated>1491376111792</updated>
       <workItem from="1491376113204" duration="10000" />
       <workItem from="1491376144263" duration="4434000" />
-      <workItem from="1491391940549" duration="66000" />
+      <workItem from="1491391940549" duration="141000" />
     </task>
     <task id="LOCAL-00001" summary="Change Frame">
       <created>1491377791742</created>
@@ -356,11 +356,18 @@
       <option name="project" value="LOCAL" />
       <updated>1491380100618</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Change String">
+      <created>1491392022488</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1491392022488</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4510000" />
+    <option name="totallyTimeSpent" value="4585000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="722" extended-state="6" />
@@ -395,7 +402,8 @@
     <MESSAGE value="Change Detail" />
     <MESSAGE value="Change string" />
     <MESSAGE value="Added Pikaday" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Pikaday" />
+    <MESSAGE value="Change String" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change String" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -505,7 +513,7 @@
     <entry file="file://$PROJECT_DIR$/ndigitectimer/public/js/timer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="218">
-          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
           <folding />
         </state>
       </provider>
