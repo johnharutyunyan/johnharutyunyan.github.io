@@ -6,28 +6,24 @@
 
     <!-- StyleSheets -->
     <link rel="stylesheet" href="https://trello.com/power-ups/power-up.css">
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
     <link rel="stylesheet" href="./css/time-button.css">
-    <link rel="stylesheet" href="../node_modules/pikaday/css/pikaday.css">
+    <link rel="stylesheet" href="css/timePicker.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
 
     <!-- Attributes -->
-    <input type="text" id="datepicker">
+    <script src="js/timepicker.js"></script>
+    <script src="js/site.js"></script>
 
-
-    <!-- Pikaday -->
-    <script src="../node_modules/pikaday/pikaday.js"></script>
-    <script src="../node_modules/moment/moment.js"></script>
-    <script>
-        var picker = new Pikaday({
-            field: document.getElementById('datepicker'),
-            format: 'D MMM YYYY',
-            onSelect: function() {
-                console.log(this.getMoment().format('Do MMMM YYYY'));
-            }
-        });
-    </script>
 
 </head>
 <body>
+
+<input type="text" id="datepicker">
+
 
 </body>
 </html>
