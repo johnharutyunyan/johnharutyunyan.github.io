@@ -7,6 +7,24 @@
     <!-- StyleSheets -->
     <link rel="stylesheet" href="https://trello.com/power-ups/power-up.css">
     <link rel="stylesheet" href="./css/time-button.css">
+    <link rel="stylesheet" href="../node_modules/pikaday/css/pikaday.css">
+
+    <!-- Attributes -->
+    <input type="text" id="datepicker">
+
+
+    <!-- Pikaday -->
+    <script src="../node_modules/pikaday/pikaday.js"></script>
+    <script src="../node_modules/moment/moment.js"></script>
+    <script>
+        var picker = new Pikaday({
+            field: document.getElementById('datepicker'),
+            format: 'D MMM YYYY',
+            onSelect: function() {
+                console.log(this.getMoment().format('Do MMMM YYYY'));
+            }
+        });
+    </script>
 
 </head>
 <body>
