@@ -13,17 +13,21 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 
-
-    <!-- Attributes -->
     <script src="js/timepicker.js"></script>
     <script src="js/site.js"></script>
-
 
 </head>
 <body>
 
-<input type="text" id="datepicker">
+<!-- Attributes -->
+<form method="post" action="http://192.168.0.100/site/trello">
+<input type="text" id="datepicker" name="date">
+<input type="text" id="hour" name="hour">
 
+<button type="submit">Save</button>
+
+
+</form>
 
 </body>
 </html>

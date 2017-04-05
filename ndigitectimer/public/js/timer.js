@@ -17,7 +17,7 @@ TrelloPowerUp.initialize({
             text: 'Add time',
             callback: function (t) {
                 return t.popup({
-                    title: "Please add time",
+                    title: "Pleas e add time",
                     url: './time-button-popup.html'
                 });
             }
