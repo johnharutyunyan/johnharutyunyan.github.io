@@ -14,7 +14,7 @@ TrelloPowerUp.initialize({
     'card-buttons': function () {
         return [{
             icon: TIMER_ICON,
-            text: 'Add time',
+            text: 'Add timer',
             callback: function (t) {
                 return t.popup({
                     title: "Please add time",
