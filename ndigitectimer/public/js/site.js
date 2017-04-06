@@ -7,9 +7,9 @@ $(function () {
         minDate: 0,
         oneLine: true,
         dateFormat: 'yy-mm-dd',
-        timeFormat: 'hh:mm tt',
-        stepHour: 1,
-        stepMinute: 1,
-        stepSecond: 1
+        timeFormat: '',
+        stepHour: 0,
+        stepMinute: 0,
+        stepSecond: 0
     });
 });

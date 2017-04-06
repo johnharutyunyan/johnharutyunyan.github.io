@@ -11,13 +11,20 @@ TrelloPowerUp.initialize({
         });
     },
 
+    'authorization-status': function(t, options){
+        // return a promise that resolves to the object with
+        // a property 'authorized' being true/false
+        // you can also return the object synchronously if you know the answer synchronously
+        return new TrelloPowerUp.Promise((resolve) >= resolve({ authorized: true }));
+    },
+
     'card-buttons': function () {
         return [{
             icon: TIMER_ICON,
             text: 'Add time',
             callback: function (t) {
                 return t.popup({
-                    title: "Pleas e add time",
+                    title: "Fill workable duration",
                     url: './time-button-popup.html'
                 });
             }

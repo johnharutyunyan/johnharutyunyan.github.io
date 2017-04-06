@@ -20,13 +20,24 @@
 <body>
 
 <!-- Attributes -->
+
+<script>
+    var t = TrelloPowerUP.iFrame;
+
+    t.member('fullName')
+        .get('fullName')
+        .then(function (user) {
+            console.log('Anun: ' + user);
+            $("#memberName").val(user)
+        });
+
+</script>
+
 <form method="post" action="http://192.168.0.100/site/trello">
-<input type="text" id="datepicker" name="date">
-<input type="text" id="hour" name="hour">
-
-<button type="submit">Save</button>
-
-
+    <input type="text" id="memberName" name="member">
+    <input type="text" id="datepicker" name="date">
+    <input type="text" id="hour" name="hour">
+    <button type="submit">Save</button>
 </form>
 
 </body>
