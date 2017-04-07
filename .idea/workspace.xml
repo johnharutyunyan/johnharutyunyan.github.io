@@ -23,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/ndigitectimer/public/time-button-popup.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="207">
-              <caret line="25" column="68" lean-forward="false" selection-start-line="25" selection-start-column="68" selection-end-line="25" selection-end-column="68" />
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -33,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/ndigitectimer/public/js/timer.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="303">
-              <caret line="34" column="79" lean-forward="false" selection-start-line="34" selection-start-column="79" selection-end-line="34" selection-end-column="79" />
+              <caret line="34" column="80" lean-forward="false" selection-start-line="34" selection-start-column="80" selection-end-line="34" selection-end-column="80" />
               <folding />
             </state>
           </provider>
@@ -288,7 +288,7 @@
       <workItem from="1491461849326" duration="1539000" />
       <workItem from="1491474951944" duration="3779000" />
       <workItem from="1491544474481" duration="5061000" />
-      <workItem from="1491562078021" duration="879000" />
+      <workItem from="1491562078021" duration="1129000" />
     </task>
     <task id="LOCAL-00001" summary="Change Frame">
       <created>1491377791742</created>
@@ -427,7 +427,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19691000" />
+    <option name="totallyTimeSpent" value="19941000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="722" extended-state="6" />
@@ -669,7 +669,7 @@
     <entry file="file://$PROJECT_DIR$/ndigitectimer/public/time-button-popup.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
-          <caret line="25" column="68" lean-forward="false" selection-start-line="25" selection-start-column="68" selection-end-line="25" selection-end-column="68" />
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -677,7 +677,7 @@
     <entry file="file://$PROJECT_DIR$/ndigitectimer/public/js/timer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="303">
-          <caret line="34" column="79" lean-forward="false" selection-start-line="34" selection-start-column="79" selection-end-line="34" selection-end-column="79" />
+          <caret line="34" column="80" lean-forward="false" selection-start-line="34" selection-start-column="80" selection-end-line="34" selection-end-column="80" />
           <folding />
         </state>
       </provider>
