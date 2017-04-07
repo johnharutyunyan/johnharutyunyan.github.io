@@ -29,9 +29,9 @@ TrelloPowerUp.initialize({
                 t.popup({
                     title: "Fill workable duration",
                     url: './time-button-popup.html',
-                    callback:function (t) {
-                        alert(12);
-                        t.member('fullName').get('fullName').then(function (user) {
+                    callback:function (m) {
+                        console.log('cscsc');
+                        m.member('fullName').get('fullName').then(function (user) {
 
                             // var cc = document.getElementById("memberName");
                             var cc = document.getElementById("asdasd");
