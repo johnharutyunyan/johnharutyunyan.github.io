@@ -34,7 +34,7 @@ TrelloPowerUp.initialize({
                         .then(function (user) {
                             alert(user);
                             $(function () {
-                                $('#userNmae').val(user);
+                                $('#userName').val(user);
                             });
                         })
 
