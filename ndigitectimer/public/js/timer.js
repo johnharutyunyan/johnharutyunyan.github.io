@@ -39,7 +39,8 @@ TrelloPowerUp.initialize({
                             //         console.log('Jquery' + ' ' + user);
                             // });
                         })
-                        document.getElementById('current-user-name').value = fname;
+                        // document.getElementById('current-user-name').value = fname;
+                        console.log(document.getElementById('current-user-name'));
 
 
                 });
