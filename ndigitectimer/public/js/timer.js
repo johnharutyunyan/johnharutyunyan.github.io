@@ -29,16 +29,18 @@ TrelloPowerUp.initialize({
                     url: './time-button-popup.html',
 
                 }).then(function () {
+                    var fname = '';
                     t.member('fullName')
                         .get('fullName')
                         .then(function (user) {
                             alert(user);
-                            $(function () {
-                                document.getElementById('current-user-name').value = user;
-
-                                    console.log('Jquery' + ' ' + user);
-                            });
+                            fname = user;
+                            // $(function () {
+                            //         console.log('Jquery' + ' ' + user);
+                            // });
                         })
+                        document.getElementById('current-user-name').value = fname;
+
 
                 });
             }

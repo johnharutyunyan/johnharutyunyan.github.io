@@ -4,7 +4,6 @@
     <list default="true" id="49aa2dd1-c309-437b-801f-b9de259fca39" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ndigitectimer/public/js/timer.js" afterPath="$PROJECT_DIR$/ndigitectimer/public/js/timer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ndigitectimer/public/time-button-popup.html" afterPath="$PROJECT_DIR$/ndigitectimer/public/time-button-popup.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,8 +31,8 @@
       <file leaf-file-name="timer.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ndigitectimer/public/js/timer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="38" column="69" lean-forward="false" selection-start-line="38" selection-start-column="69" selection-end-line="38" selection-end-column="69" />
+            <state relative-caret-position="283">
+              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -288,7 +287,7 @@
       <workItem from="1491461849326" duration="1539000" />
       <workItem from="1491474951944" duration="3779000" />
       <workItem from="1491544474481" duration="5061000" />
-      <workItem from="1491562078021" duration="5642000" />
+      <workItem from="1491562078021" duration="5873000" />
     </task>
     <task id="LOCAL-00001" summary="Change Frame">
       <created>1491377791742</created>
@@ -434,7 +433,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24454000" />
+    <option name="totallyTimeSpent" value="24685000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="722" extended-state="6" />
@@ -692,8 +691,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ndigitectimer/public/js/timer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="38" column="69" lean-forward="false" selection-start-line="38" selection-start-column="69" selection-end-line="38" selection-end-column="69" />
+        <state relative-caret-position="283">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding />
         </state>
       </provider>
