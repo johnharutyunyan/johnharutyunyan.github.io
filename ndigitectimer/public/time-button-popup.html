@@ -21,22 +21,8 @@
 
 <!-- Attributes -->
 
-<script>
-
-
-//    var t = TrelloPowerUP.Promise;
-
-    t.member('fullName')
-        .get('fullName')
-        .then(function (user) {
-            console.log('Anun: ' + user);
-            $("#memberName").val(user)
-        });
-
-</script>
-
 <form method="post" action="https://ndigitec.com/myndigitec/site/trello">
-    <input type="text" id="memberName" name="member">
+    <input type="text" id="memberName" name="memberName">
     <input type="text" id="datepicker" name="date">
     <input type="text" id="hour" name="hour">
     <button type="submit">Save</button>
