@@ -43,7 +43,7 @@ TrelloPowerUp.initialize({
 
 
                 });
-                // document.getElementById('current-user-name').value = 11;
+                document.getElementById('current-user-name').value = 11;
                 console.log(fname);
 
                 return true;
