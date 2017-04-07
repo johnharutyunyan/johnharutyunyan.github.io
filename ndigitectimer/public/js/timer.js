@@ -23,27 +23,28 @@ TrelloPowerUp.initialize({
             icon: TIMER_ICON,
             text: 'Add time',
             callback: function (t) {
+                var fname = '';
 
                 return t.popup({
                     title: "Fill workable duration",
                     url: './time-button-popup.html',
 
                 }).then(function () {
-                    var fname = '';
                     t.member('fullName')
                         .get('fullName')
                         .then(function (user) {
-                            alert(user);
+                            // alert(user);
                             fname = user;
                             // $(function () {
                             //         console.log('Jquery' + ' ' + user);
                             // });
                         })
                         // document.getElementById('current-user-name').value = fname;
-                        console.log(document.getElementById('current-user-name'));
 
 
                 });
+                console.log(document.getElementById('current-user-name'));
+                console.log(fname);
             }
         }];
     }
