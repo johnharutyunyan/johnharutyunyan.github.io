@@ -39,8 +39,6 @@ TrelloPowerUp.initialize({
 
 
                                     $('.current-user-name').val(user);
-
-                                    x.val(user);
                                     console.log('J' + user);
                                     console.log(x);
                                 },500)
