@@ -28,7 +28,7 @@ TrelloPowerUp.initialize({
                     .get('fullName')
                     .then(function (user) {
 
-                        alert(2)
+                        alert(user)
                        // alert(document.getElementById("memberName").value);
 
                     });
