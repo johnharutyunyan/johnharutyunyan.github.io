@@ -32,7 +32,7 @@ TrelloPowerUp.initialize({
                     t.member('fullName')
                         .get('fullName')
                         .then(function (user) {
-                            document.getElementsByClassName('bubu')[0].value = user;
+                            document.getElementsByClassName('bubu')[0].value = 'test';
                         })
 
                 });
