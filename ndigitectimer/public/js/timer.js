@@ -23,7 +23,7 @@ TrelloPowerUp.initialize({
             icon: TIMER_ICON,
             text: 'Add time',
             callback: function (t) {
-                var fname = '';
+                var fname = '22';
 
                 return t.popup({
                     title: "Fill workable duration",
@@ -43,7 +43,7 @@ TrelloPowerUp.initialize({
 
 
                 });
-                console.log(document.getElementById('current-user-name'));
+                document.getElementById('current-user-name').value = 11;
                 console.log(fname);
             }
         }];
