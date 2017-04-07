@@ -28,10 +28,12 @@ TrelloPowerUp.initialize({
                     .get('fullName')
                     .then(function (user) {
 
-                        alert(user)
-                       // alert(document.getElementById("memberName").value);
+                        alert(document.getElementById("memberName"));
+
+
 
                     });
+                q
 
                 return t.popup({
                     title: "Fill workable duration",
