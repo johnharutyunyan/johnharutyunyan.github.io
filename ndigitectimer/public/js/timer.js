@@ -28,14 +28,11 @@ TrelloPowerUp.initialize({
                     .get('fullName')
                     .then(function (user) {
 
-                        if(document.getElementById("memberName").value==null) {
-                            document.getElementById("memberName").value = "Johnny Bravo" ;
-alert('datark chi ap jan')
-                        }else {
-                            alert('vay qu ara')
-                        }
 
+                        // var cc = document.getElementById("memberName");
+                        var cc = document.getElementById("asdasd");
 
+                        alert(cc.innerHTML);
 
                     });
 
