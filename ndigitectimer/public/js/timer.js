@@ -24,24 +24,13 @@ TrelloPowerUp.initialize({
             text: 'Add time',
             callback: function (t) {
 
-
-
-                t.popup({
-                    title: "Fill workable duration",
+                return t.popup({
+                     title: "Fill workable duration",
                     url: './time-button-popup.html',
-                    callback:function () {
-                        console.log('cscsc');
-                        t.member('fullName').get('fullName').then(function (user) {
 
-                            // var cc = document.getElementById("memberName");
-                            var cc = document.getElementById("asdasd");
-
-                            alert(cc.innerHTML);
-
-                        });
-                    }
+                }).then(function (user) {
+                    alert(user);
                 });
-
             }
         }];
     }
