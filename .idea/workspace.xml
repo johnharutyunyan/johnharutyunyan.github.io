@@ -31,8 +31,8 @@
       <file leaf-file-name="timer.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ndigitectimer/public/js/timer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="32" column="23" lean-forward="false" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+            <state relative-caret-position="293">
+              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -276,7 +276,7 @@
       <workItem from="1491391940549" duration="3989000" />
       <workItem from="1491461849326" duration="1539000" />
       <workItem from="1491474951944" duration="3779000" />
-      <workItem from="1491544474481" duration="1939000" />
+      <workItem from="1491544474481" duration="2421000" />
     </task>
     <task id="LOCAL-00001" summary="Change Frame">
       <created>1491377791742</created>
@@ -397,11 +397,18 @@
       <option name="project" value="LOCAL" />
       <updated>1491546846429</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Get Full Name to input">
+      <created>1491546915765</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1491546915765</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15690000" />
+    <option name="totallyTimeSpent" value="16172000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="722" extended-state="6" />
@@ -622,8 +629,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ndigitectimer/public/js/timer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="32" column="23" lean-forward="false" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+        <state relative-caret-position="293">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
         </state>
       </provider>
