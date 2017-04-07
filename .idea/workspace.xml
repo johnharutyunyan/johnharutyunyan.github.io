@@ -4,6 +4,7 @@
     <list default="true" id="49aa2dd1-c309-437b-801f-b9de259fca39" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ndigitectimer/public/js/timer.js" afterPath="$PROJECT_DIR$/ndigitectimer/public/js/timer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ndigitectimer/public/time-button-popup.html" afterPath="$PROJECT_DIR$/ndigitectimer/public/time-button-popup.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,8 +22,8 @@
       <file leaf-file-name="time-button-popup.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ndigitectimer/public/time-button-popup.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="27" column="44" lean-forward="false" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+            <state relative-caret-position="207">
+              <caret line="25" column="68" lean-forward="false" selection-start-line="25" selection-start-column="68" selection-end-line="25" selection-end-column="68" />
               <folding />
             </state>
           </provider>
@@ -31,8 +32,8 @@
       <file leaf-file-name="timer.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ndigitectimer/public/js/timer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="30" column="37" lean-forward="true" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+            <state relative-caret-position="303">
+              <caret line="34" column="79" lean-forward="false" selection-start-line="34" selection-start-column="79" selection-end-line="34" selection-end-column="79" />
               <folding />
             </state>
           </provider>
@@ -287,7 +288,7 @@
       <workItem from="1491461849326" duration="1539000" />
       <workItem from="1491474951944" duration="3779000" />
       <workItem from="1491544474481" duration="5061000" />
-      <workItem from="1491562078021" duration="669000" />
+      <workItem from="1491562078021" duration="879000" />
     </task>
     <task id="LOCAL-00001" summary="Change Frame">
       <created>1491377791742</created>
@@ -426,7 +427,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19481000" />
+    <option name="totallyTimeSpent" value="19691000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="722" extended-state="6" />
@@ -667,16 +668,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ndigitectimer/public/time-button-popup.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="27" column="44" lean-forward="false" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+        <state relative-caret-position="207">
+          <caret line="25" column="68" lean-forward="false" selection-start-line="25" selection-start-column="68" selection-end-line="25" selection-end-column="68" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ndigitectimer/public/js/timer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="30" column="37" lean-forward="true" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+        <state relative-caret-position="303">
+          <caret line="34" column="79" lean-forward="false" selection-start-line="34" selection-start-column="79" selection-end-line="34" selection-end-column="79" />
           <folding />
         </state>
       </provider>
