@@ -25,7 +25,7 @@ TrelloPowerUp.initialize({
             callback: function (t) {
                 var fname = '22';
 
-                return t.popup({
+                 t.popup({
                     title: "Fill workable duration",
                     url: './time-button-popup.html',
 
@@ -42,9 +42,11 @@ TrelloPowerUp.initialize({
                         // document.getElementById('current-user-name').value = fname;
 
 
-                    document.getElementById('current-user-name').value = 11;
-                    console.log(fname);
                 });
+                // document.getElementById('current-user-name').value = 11;
+                console.log(fname);
+
+                return true;
             }
         }];
     }
