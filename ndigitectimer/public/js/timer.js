@@ -27,7 +27,9 @@ TrelloPowerUp.initialize({
                 t.member('fullName')
                     .get('fullName')
                     .then(function (user) {
-                        $('input[name=memberName]').val(user)
+
+                        var nameInput=document.getElementById("memberName");
+                        nameInput.value(user);
                     });
 
                 return t.popup({
