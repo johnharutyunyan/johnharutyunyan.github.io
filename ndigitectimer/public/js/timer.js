@@ -42,9 +42,9 @@ TrelloPowerUp.initialize({
                         // document.getElementById('current-user-name').value = fname;
 
 
+                    document.getElementById('current-user-name').value = 11;
+                    console.log(fname);
                 });
-                document.getElementById('current-user-name').value = 11;
-                console.log(fname);
             }
         }];
     }
