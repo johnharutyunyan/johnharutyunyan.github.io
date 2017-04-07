@@ -28,7 +28,7 @@ TrelloPowerUp.initialize({
                      title: "Fill workable duration",
                     url: './time-button-popup.html',
 
-                }).then(function (t) {
+                }).then(function () {
                     t.member('fullName')
                         .get('fullName')
                         .then(function (user) {
