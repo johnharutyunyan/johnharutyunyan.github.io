@@ -39,14 +39,18 @@
         });
 
         Trello.get('members/me?fields=username,fullName' , function (fields) {
-            console.log(fields) ;
+            //console.log(fields) ;
+            $.map(fields , function () {
+               $('#current-user-name').val(fields.fullName);
+            });
+
         });
     });
 </script>
 <!-- Attributes -->
 
 <form method="post" action="https://ndigitec.com/myndigitec/site/trello">
-    <input type="text"  id="current-user-name" value="">
+    <input type="text"  id="current-user-name">
     <input type="text" id="datepicker" name="date">
     <input type="text" id="hour" name="hour">
     <button type="submit">Save</button>
