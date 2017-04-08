@@ -35,8 +35,14 @@ TrelloPowerUp.initialize({
                              console.log(user);
                             fname = user;
 
+                            console.log(fname + '1');
+
                         })
-                });
+                     console.log(fname + '2');
+
+                 });
+                console.log(fname + '3');
+
             }
         }];
     }
