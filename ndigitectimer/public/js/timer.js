@@ -21,8 +21,7 @@ TrelloPowerUp.initialize({
         return [{
             icon: TIMER_ICON,
             text: 'Add time',
-            callback: function (t , fname) {
-
+            callback: function (t) {
                  t.popup({
                     title: "Fill workable duration",
                     url: './time-button-popup.html',
