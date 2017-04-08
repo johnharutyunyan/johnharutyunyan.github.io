@@ -33,25 +33,12 @@ TrelloPowerUp.initialize({
                     t.member('fullName')
                         .get('fullName')
                         .then(function (user) {
-                            // alert(user);
-                            fname = user;
-                            // $(function () {
-                            //         console.log('Jquery' + ' ' + user);
-                            // });
+                             console.log(user);
+                           var fname = user;
+
                         })
-                        // document.getElementById('current-user-name').value = fname;
-
-
                 });
-                document.getElementById('current-user-name').value = 11;
-                console.log(fname);
-
-                return true;
             }
-
-
-
-            
         }];
     }
 });
