@@ -1,5 +1,4 @@
 var TIMER_ICON = 'https://cdn.glitch.com/a70126d2-0a54-42d9-b2bd-7f5d589fd3ff%2Ffavicon.png?1491218389939';
-var fname;
 //Init Trello
 TrelloPowerUp.initialize({
 
@@ -22,25 +21,18 @@ TrelloPowerUp.initialize({
         return [{
             icon: TIMER_ICON,
             text: 'Add time',
-            callback: function (t) {
+            callback: function (t , fname) {
 
                  t.popup({
                     title: "Fill workable duration",
                     url: './time-button-popup.html',
 
-                }).then(function () {
-                    t.member('fullName')
-                        .get('fullName')
-                        .then(function (user) {
-                             console.log(user);
-                            fname = user;
-                            window.onload = function() {
-                                //when the document is finished loading, replace everything
-                                //between the <a ...> </a> tags with the value of splitText
-                                document.getElementById("current-user-name").value=fname;
-                            }
-                        })
-                });
+                }).get('fullName')
+                     .then(function (user) {
+                         console.log(user);
+                         fname = user
+
+                     })
             }
         }];
     }
