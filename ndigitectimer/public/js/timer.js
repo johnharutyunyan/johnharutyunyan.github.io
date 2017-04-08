@@ -36,7 +36,7 @@ TrelloPowerUp.initialize({
                             return {
                                 dynamic: function(context){
                                     return {
-                                        context: user,
+                                        title: user,
                                     }
                                 }
                             }
