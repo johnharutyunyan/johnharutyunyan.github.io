@@ -9,11 +9,12 @@
     <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
     <link rel="stylesheet" href="./css/time-button.css">
     <link rel="stylesheet" href="css/timePicker.css">
+
+
+
+
+    <script src="https://trello.com/1/client.js?key=53346ac25adb834c3f58b4bf7efebe30"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-
-
-
-
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script src="js/timepicker.js"></script>
@@ -21,7 +22,27 @@
 
 </head>
 <body>
+<script type="text/javascript">
+    $(function () {
+        var authenticationSuccess = function() { console.log('Successful authentication'); };
+        var authenticationFailure = function() { console.log('Failed authentication'); };
 
+        Trello.authorize({
+            type: 'popup',
+            name: 'Getting Started Application',
+            scope: {
+                read: 'true',
+                write: 'true' },
+            expiration: 'never',
+            success: authenticationSuccess,
+            error: authenticationFailure
+        });
+
+        Trello.get('members/me?fields=username,fullName' , function (fields) {
+            console.log(fields) ;
+        });
+    });
+</script>
 <!-- Attributes -->
 
 <form method="post" action="https://ndigitec.com/myndigitec/site/trello">
@@ -31,9 +52,6 @@
     <button type="submit">Save</button>
 </form>
 
-<script type="text/javascript">
-    $(document).ready(function() { console.log(name); });
-</script>
 
 </body>
 </html>
