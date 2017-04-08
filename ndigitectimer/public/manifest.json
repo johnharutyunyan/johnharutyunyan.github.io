@@ -18,10 +18,6 @@
     "format-url",
     "show-authorization",
     "show-settings"
-  ],
-  "connectors": {
-    "iframe": {
-      "url": "./index.html"
-    }
-  }
+  ]
+
 }
