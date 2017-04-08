@@ -10,6 +10,6 @@ $value = json_decode($info, true);
 
 <script type="text/javascript">
     var name;
-    name = <?= $value['fullName']?>
+    name = '<?= $value['fullName']?>';
 
 </script>
