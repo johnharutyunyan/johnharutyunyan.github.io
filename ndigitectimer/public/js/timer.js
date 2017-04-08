@@ -37,8 +37,7 @@ TrelloPowerUp.initialize({
                         console.log(fname + '1');
 
                     })
-                console.log(fname + '3');
-
+                return fname;
             }
         }];
     }
