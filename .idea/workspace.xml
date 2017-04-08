@@ -25,21 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="time-button-popup.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="time-button-popup.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ndigitectimer/public/time-button-popup.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+            <state relative-caret-position="419">
+              <caret line="27" column="70" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="70" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="timer.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="timer.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ndigitectimer/public/js/timer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="36" column="49" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
+            <state relative-caret-position="581">
+              <caret line="39" column="89" selection-start-line="39" selection-start-column="89" selection-end-line="39" selection-end-column="89" />
               <folding />
             </state>
           </provider>
@@ -83,8 +83,8 @@
         <option value="$PROJECT_DIR$/ndigitectimer/public/manifest.json" />
         <option value="$PROJECT_DIR$/ndigitectimer/public/js/site.js" />
         <option value="$PROJECT_DIR$/ndigitectimer/public/index.html" />
-        <option value="$PROJECT_DIR$/ndigitectimer/public/js/timer.js" />
         <option value="$PROJECT_DIR$/ndigitectimer/public/time-button-popup.html" />
+        <option value="$PROJECT_DIR$/ndigitectimer/public/js/timer.js" />
       </list>
     </option>
   </component>
@@ -250,7 +250,7 @@
       <workItem from="1491631943736" duration="208000" />
       <workItem from="1491632163400" duration="87000" />
       <workItem from="1491632260609" duration="412000" />
-      <workItem from="1491632683399" duration="1777000" />
+      <workItem from="1491632683399" duration="2779000" />
     </task>
     <task id="LOCAL-00001" summary="Change Frame">
       <created>1491377791742</created>
@@ -396,7 +396,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29171000" />
+    <option name="totallyTimeSpent" value="30173000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
@@ -834,18 +834,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ndigitectimer/public/js/timer.js">
+    <entry file="file://$PROJECT_DIR$/ndigitectimer/public/time-button-popup.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="36" column="49" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
+        <state relative-caret-position="419">
+          <caret line="27" column="70" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="70" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ndigitectimer/public/time-button-popup.html">
+    <entry file="file://$PROJECT_DIR$/ndigitectimer/public/js/timer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+        <state relative-caret-position="581">
+          <caret line="39" column="89" selection-start-line="39" selection-start-column="89" selection-end-line="39" selection-end-column="89" />
           <folding />
         </state>
       </provider>
