@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="49aa2dd1-c309-437b-801f-b9de259fca39" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ndigitectimer/public/time-button-popup.html" afterPath="$PROJECT_DIR$/ndigitectimer/public/time-button-popup.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,18 +28,9 @@
       <file leaf-file-name="time-button-popup.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ndigitectimer/public/time-button-popup.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="27" column="0" selection-start-line="27" selection-start-column="2" selection-end-line="52" selection-end-column="9" />
-              <folding>
-                <marker date="1491828631394" expanded="true" signature="991:1717" ph="{...}" />
-                <marker date="1491828631394" expanded="true" signature="1037:1709" ph="{...}" />
-                <marker date="1491828631394" expanded="true" signature="1060:1696" ph="[...]" />
-                <marker date="1491828631394" expanded="true" signature="1061:1695" ph="{&quot;icon&quot;: TIMER_ICON...}" />
-                <marker date="1491828631394" expanded="true" signature="1176:1679" ph="{...}" />
-                <marker date="1491828631394" expanded="true" signature="1208:1357" ph="{&quot;title&quot;: &quot;Fill workable duration&quot;...}" />
-                <marker date="1491828631394" expanded="true" signature="1376:1657" ph="{...}" />
-                <marker date="1491828631394" expanded="true" signature="1532:1629" ph="{...}" />
-              </folding>
+            <state relative-caret-position="375">
+              <caret line="42" column="40" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -78,8 +70,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ndigitectimer/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="50" selection-end-column="9" />
+            <state relative-caret-position="85">
+              <caret line="5" column="72" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="72" />
               <folding />
             </state>
           </provider>
@@ -326,7 +318,7 @@
       <workItem from="1491632260609" duration="412000" />
       <workItem from="1491632683399" duration="7538000" />
       <workItem from="1491642783975" duration="9023000" />
-      <workItem from="1491827500229" duration="1131000" />
+      <workItem from="1491827500229" duration="1194000" />
     </task>
     <task id="LOCAL-00001" summary="Change Frame">
       <created>1491377791742</created>
@@ -472,7 +464,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45086000" />
+    <option name="totallyTimeSpent" value="45149000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
@@ -548,16 +540,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="71" selection-start-line="26" selection-start-column="71" selection-end-line="26" selection-end-column="71" />
-          <folding>
-            <marker date="1491828631394" expanded="true" signature="991:1717" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1037:1709" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1060:1696" ph="[...]" />
-            <marker date="1491828631394" expanded="true" signature="1061:1695" ph="{&quot;icon&quot;: TIMER_ICON...}" />
-            <marker date="1491828631394" expanded="true" signature="1176:1679" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1208:1357" ph="{&quot;title&quot;: &quot;Fill workable duration&quot;...}" />
-            <marker date="1491828631394" expanded="true" signature="1376:1657" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1532:1629" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -591,16 +574,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="71" selection-start-line="26" selection-start-column="71" selection-end-line="26" selection-end-column="71" />
-          <folding>
-            <marker date="1491828631394" expanded="true" signature="991:1717" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1037:1709" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1060:1696" ph="[...]" />
-            <marker date="1491828631394" expanded="true" signature="1061:1695" ph="{&quot;icon&quot;: TIMER_ICON...}" />
-            <marker date="1491828631394" expanded="true" signature="1176:1679" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1208:1357" ph="{&quot;title&quot;: &quot;Fill workable duration&quot;...}" />
-            <marker date="1491828631394" expanded="true" signature="1376:1657" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1532:1629" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -634,16 +608,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="71" selection-start-line="26" selection-start-column="71" selection-end-line="26" selection-end-column="71" />
-          <folding>
-            <marker date="1491828631394" expanded="true" signature="991:1717" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1037:1709" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1060:1696" ph="[...]" />
-            <marker date="1491828631394" expanded="true" signature="1061:1695" ph="{&quot;icon&quot;: TIMER_ICON...}" />
-            <marker date="1491828631394" expanded="true" signature="1176:1679" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1208:1357" ph="{&quot;title&quot;: &quot;Fill workable duration&quot;...}" />
-            <marker date="1491828631394" expanded="true" signature="1376:1657" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1532:1629" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -677,16 +642,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="71" selection-start-line="26" selection-start-column="71" selection-end-line="26" selection-end-column="71" />
-          <folding>
-            <marker date="1491828631394" expanded="true" signature="991:1717" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1037:1709" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1060:1696" ph="[...]" />
-            <marker date="1491828631394" expanded="true" signature="1061:1695" ph="{&quot;icon&quot;: TIMER_ICON...}" />
-            <marker date="1491828631394" expanded="true" signature="1176:1679" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1208:1357" ph="{&quot;title&quot;: &quot;Fill workable duration&quot;...}" />
-            <marker date="1491828631394" expanded="true" signature="1376:1657" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1532:1629" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -720,16 +676,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="71" selection-start-line="26" selection-start-column="71" selection-end-line="26" selection-end-column="71" />
-          <folding>
-            <marker date="1491828631394" expanded="true" signature="991:1717" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1037:1709" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1060:1696" ph="[...]" />
-            <marker date="1491828631394" expanded="true" signature="1061:1695" ph="{&quot;icon&quot;: TIMER_ICON...}" />
-            <marker date="1491828631394" expanded="true" signature="1176:1679" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1208:1357" ph="{&quot;title&quot;: &quot;Fill workable duration&quot;...}" />
-            <marker date="1491828631394" expanded="true" signature="1376:1657" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1532:1629" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -763,16 +710,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
-          <folding>
-            <marker date="1491828631394" expanded="true" signature="991:1717" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1037:1709" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1060:1696" ph="[...]" />
-            <marker date="1491828631394" expanded="true" signature="1061:1695" ph="{&quot;icon&quot;: TIMER_ICON...}" />
-            <marker date="1491828631394" expanded="true" signature="1176:1679" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1208:1357" ph="{&quot;title&quot;: &quot;Fill workable duration&quot;...}" />
-            <marker date="1491828631394" expanded="true" signature="1376:1657" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1532:1629" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -798,16 +736,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1491828631394" expanded="true" signature="991:1717" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1037:1709" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1060:1696" ph="[...]" />
-            <marker date="1491828631394" expanded="true" signature="1061:1695" ph="{&quot;icon&quot;: TIMER_ICON...}" />
-            <marker date="1491828631394" expanded="true" signature="1176:1679" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1208:1357" ph="{&quot;title&quot;: &quot;Fill workable duration&quot;...}" />
-            <marker date="1491828631394" expanded="true" signature="1376:1657" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1532:1629" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -840,16 +769,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1491828631394" expanded="true" signature="991:1717" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1037:1709" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1060:1696" ph="[...]" />
-            <marker date="1491828631394" expanded="true" signature="1061:1695" ph="{&quot;icon&quot;: TIMER_ICON...}" />
-            <marker date="1491828631394" expanded="true" signature="1176:1679" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1208:1357" ph="{&quot;title&quot;: &quot;Fill workable duration&quot;...}" />
-            <marker date="1491828631394" expanded="true" signature="1376:1657" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1532:1629" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -882,16 +802,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1491828631394" expanded="true" signature="991:1717" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1037:1709" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1060:1696" ph="[...]" />
-            <marker date="1491828631394" expanded="true" signature="1061:1695" ph="{&quot;icon&quot;: TIMER_ICON...}" />
-            <marker date="1491828631394" expanded="true" signature="1176:1679" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1208:1357" ph="{&quot;title&quot;: &quot;Fill workable duration&quot;...}" />
-            <marker date="1491828631394" expanded="true" signature="1376:1657" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1532:1629" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -924,16 +835,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-          <folding>
-            <marker date="1491828631394" expanded="true" signature="991:1717" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1037:1709" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1060:1696" ph="[...]" />
-            <marker date="1491828631394" expanded="true" signature="1061:1695" ph="{&quot;icon&quot;: TIMER_ICON...}" />
-            <marker date="1491828631394" expanded="true" signature="1176:1679" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1208:1357" ph="{&quot;title&quot;: &quot;Fill workable duration&quot;...}" />
-            <marker date="1491828631394" expanded="true" signature="1376:1657" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1532:1629" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1002,14 +904,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ndigitectimer/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="50" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ndigitectimer/public/js/timer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1028,20 +922,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ndigitectimer/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="72" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ndigitectimer/public/time-button-popup.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="2" selection-end-line="52" selection-end-column="9" />
-          <folding>
-            <marker date="1491828631394" expanded="true" signature="991:1717" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1037:1709" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1060:1696" ph="[...]" />
-            <marker date="1491828631394" expanded="true" signature="1061:1695" ph="{&quot;icon&quot;: TIMER_ICON...}" />
-            <marker date="1491828631394" expanded="true" signature="1176:1679" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1208:1357" ph="{&quot;title&quot;: &quot;Fill workable duration&quot;...}" />
-            <marker date="1491828631394" expanded="true" signature="1376:1657" ph="{...}" />
-            <marker date="1491828631394" expanded="true" signature="1532:1629" ph="{...}" />
-          </folding>
+        <state relative-caret-position="375">
+          <caret line="42" column="40" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
+          <folding />
         </state>
       </provider>
     </entry>
