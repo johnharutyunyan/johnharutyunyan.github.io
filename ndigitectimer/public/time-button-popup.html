@@ -23,29 +23,29 @@
 </head>
 <body>
 <script type="text/javascript">
-    $(function () {
-        var authenticationSuccess = function() { console.log('Successful authentication'); };
-        var authenticationFailure = function() { console.log('Failed authentication'); };
-
-        Trello.authorize({
-            type: 'popup',
-            name: 'Getting Started Application',
-            scope: {
-                read: 'true',
-                write: 'true' },
-            expiration: 'never',
-            success: authenticationSuccess,
-            error: authenticationFailure
-        });
-
-        Trello.get('members/me?fields=username,fullName' , function (fields) {
-            //console.log(fields) ;
-            $.map(fields , function () {
-               $('#current-user-name').val(fields.fullName);
-            });
-
-        });
-    });
+//    $(function () {
+//        var authenticationSuccess = function() { console.log('Successful authentication'); };
+//        var authenticationFailure = function() { console.log('Failed authentication'); };
+//
+//        Trello.authorize({
+//            type: 'popup',
+//            name: 'Getting Started Application',
+//            scope: {
+//                read: 'true',
+//                write: 'true' },
+//            expiration: 'never',
+//            success: authenticationSuccess,
+//            error: authenticationFailure
+//        });
+//
+//        Trello.get('members/me?fields=username,fullName' , function (fields) {
+//            //console.log(fields) ;
+//            $.map(fields , function () {
+//               $('#current-user-name').val(fields.fullName);
+//            });
+//
+//        });
+//    });
 </script>
 <!-- Attributes -->
 
