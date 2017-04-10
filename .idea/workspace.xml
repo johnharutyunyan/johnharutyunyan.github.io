@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="49aa2dd1-c309-437b-801f-b9de259fca39" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ndigitectimer/public/time-button-popup.html" afterPath="$PROJECT_DIR$/ndigitectimer/public/time-button-popup.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ndigitectimer/public/index.html" afterPath="$PROJECT_DIR$/ndigitectimer/public/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="time-button-popup.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="time-button-popup.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ndigitectimer/public/time-button-popup.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="42" column="40" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
+            <state relative-caret-position="256">
+              <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -67,11 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ndigitectimer/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="72" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="72" />
+            <state relative-caret-position="561">
+              <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -97,8 +97,8 @@
         <option value="$PROJECT_DIR$/ndigitectimer/public/test.php" />
         <option value="$PROJECT_DIR$/ndigitectimer/public/manifest.json" />
         <option value="$PROJECT_DIR$/ndigitectimer/public/js/timer.js" />
-        <option value="$PROJECT_DIR$/ndigitectimer/public/index.html" />
         <option value="$PROJECT_DIR$/ndigitectimer/public/time-button-popup.html" />
+        <option value="$PROJECT_DIR$/ndigitectimer/public/index.html" />
       </list>
     </option>
   </component>
@@ -318,7 +318,7 @@
       <workItem from="1491632260609" duration="412000" />
       <workItem from="1491632683399" duration="7538000" />
       <workItem from="1491642783975" duration="9023000" />
-      <workItem from="1491827500229" duration="1194000" />
+      <workItem from="1491827500229" duration="1343000" />
     </task>
     <task id="LOCAL-00001" summary="Change Frame">
       <created>1491377791742</created>
@@ -464,7 +464,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45149000" />
+    <option name="totallyTimeSpent" value="45298000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
@@ -922,18 +922,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ndigitectimer/public/index.html">
+    <entry file="file://$PROJECT_DIR$/ndigitectimer/public/time-button-popup.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="72" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="72" />
+        <state relative-caret-position="256">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ndigitectimer/public/time-button-popup.html">
+    <entry file="file://$PROJECT_DIR$/ndigitectimer/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="42" column="40" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
+        <state relative-caret-position="561">
+          <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
           <folding />
         </state>
       </provider>
