@@ -4,7 +4,6 @@
     <list default="true" id="49aa2dd1-c309-437b-801f-b9de259fca39" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ndigitectimer/public/index.html" afterPath="$PROJECT_DIR$/ndigitectimer/public/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ndigitectimer/public/time-button-popup.html" afterPath="$PROJECT_DIR$/ndigitectimer/public/time-button-popup.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -71,8 +70,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ndigitectimer/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+            <state relative-caret-position="221">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="50" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -319,7 +318,7 @@
       <workItem from="1491632260609" duration="412000" />
       <workItem from="1491632683399" duration="7538000" />
       <workItem from="1491642783975" duration="9023000" />
-      <workItem from="1491827500229" duration="963000" />
+      <workItem from="1491827500229" duration="1094000" />
     </task>
     <task id="LOCAL-00001" summary="Change Frame">
       <created>1491377791742</created>
@@ -465,7 +464,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44918000" />
+    <option name="totallyTimeSpent" value="45049000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
@@ -933,8 +932,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ndigitectimer/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+        <state relative-caret-position="221">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="50" selection-end-column="9" />
           <folding />
         </state>
       </provider>
