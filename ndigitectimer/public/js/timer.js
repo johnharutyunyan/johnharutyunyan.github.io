@@ -26,7 +26,8 @@ TrelloPowerUp.initialize({
                     title: "Fill workable duration",
                     url: './time-button-popup.html',
 
-                })
+                });
+                console.log(t.iframe());
             }
         }];
     }
