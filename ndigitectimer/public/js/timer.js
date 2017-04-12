@@ -22,15 +22,12 @@ TrelloPowerUp.initialize({
             icon: TIMER_ICON,
             text: 'Add time',
             callback: function (t) {
-                 t.popup({
-                    title: "Fill workable duration",
-                    url: './time-button-popup.html',
-
-                });
-                t.iframe()
-                    .then(function(promiseResult) {
-                        console.log(promiseResult);
-                    });
+                //  t.popup({
+                //     title: "Fill workable duration",
+                //     url: './time-button-popup.html',
+                //
+                // });
+                t.iframe({});
             }
         }];
     }
