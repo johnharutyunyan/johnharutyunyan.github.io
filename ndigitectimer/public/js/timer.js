@@ -27,7 +27,11 @@ TrelloPowerUp.initialize({
                 //     url: './time-button-popup.html',
                 //
                 // });
-                t.iframe({});
+                // t.iframe({});
+                t.card('id', 'name', 'url')
+                    .then(function(promiseResult) {
+                        console.log(promiseResult);
+                    });
             }
         }];
     }
